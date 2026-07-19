@@ -5,7 +5,7 @@
 ### 💻 Computer Science Undergraduate @ NIT Srinagar
 ### 🚀 Backend Developer • AI Enthusiast • Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=2000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=2000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things"/>
 
 </div>
 
@@ -13,49 +13,20 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE @ **NIT Srinagar**
-- 🤖 Winter Research Intern @ **DIAT Pune (Govt. of India, MoD)**
-- 🌱 Learning **Spring Boot, System Design & AI Engineering**
-- 💻 Interested in **Backend Development, AI Applications & Scalable APIs**
-- 🏆 Solved **250+ LeetCode** & **130+ CodeChef** problems
+- 🎓 B.Tech in Computer Science at **NIT Srinagar**
+- 🤖 Winter Research Intern at **DIAT Pune (Govt. of India, MoD)**
+- 🌱 Currently learning **Spring Boot, System Design & AI Engineering**
+- 💻 Passionate about **Backend Development, AI Applications & Scalable APIs**
+- 🏆 Solved **250+ LeetCode** and **130+ CodeChef** problems
+- 🌍 Open Source Contributor (GirlScript Summer of Code 2026)
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,nodejs,express,fastapi,react,mongodb,mysql,html,css,bootstrap,git,github,vscode,postman&perline=9"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,nodejs,express,fastapi,react,html,css,bootstrap,mongodb,mysql,git,github,vscode,postman&perline=9"/>
 </p>
-
----
-
-## ⭐ Featured Projects
-
-### 🏡 WanderNest
-Full-stack vacation rental platform using **Node.js, Express.js, MongoDB Atlas, Passport.js & Cloudinary**
-
-🔗 https://github.com/Annu45/wandernest
-
----
-
-### 🤖 AI RAG Backend
-Built an LLM-powered RAG backend during my internship at **DIAT Pune** using **FastAPI, LangChain & Google Gemini**
-
----
-
-### 🌐 Personal Portfolio
-Dynamic MERN portfolio powered by REST APIs.
-
-🔗 https://github.com/Annu45/Portfolio
-
----
-
-### 🌍 Open Source
-GirlScript Summer of Code 2026
-
-Merged PR to **Eventra**
 
 ---
 
@@ -76,11 +47,11 @@ Merged PR to **Eventra**
 </a>
 
 <a href="https://www.linkedin.com/in/annumathur003/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Annu45">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/annumathur003/">
@@ -91,7 +62,7 @@ Merged PR to **Eventra**
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
 **Code • Learn • Build • Repeat 🚀**
 
