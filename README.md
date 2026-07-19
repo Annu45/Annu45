@@ -54,17 +54,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Annu45&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annu45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=Annu45&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Annu45&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Annu45&theme=tokyo-night&hide_border=true"/>
 </p>
-
 ---
 
 ## 🤝 Connect With Me
